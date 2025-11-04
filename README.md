@@ -54,15 +54,15 @@ Below are visual previews of the AIDesign Studio website:
 
 ## 🔗 Live Demo
 👉 *This project is a visual concept created for portfolio presentation.*  
-👉 [View Canva Design / Demo Video](https://your-demo-link.com)
 
 ---
 
 ## 👩‍💻 Author
 **Rani Kiragi**  
 AI Web Designer | Frontend Developer  
-📧 [your-email@example.com]  
-🌐 [GitHub Profile](https://github.com/yourusername)
+
+🌐 [GitHub Profile](https://github.com/Rani73699)
+
 
 ---
 
